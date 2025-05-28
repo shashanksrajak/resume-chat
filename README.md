@@ -2,7 +2,7 @@
 
 An AI-powered resume analysis webapp designed specifically for recruiters to upload candidate resumes and conduct intelligent conversations about their qualifications using Google's Gemini AI.
 
-![Landing Page](./frontend/assets/landing-page.png)
+![Landing Page](./assets/landing-page.png)
 
 ## ✨ Features
 
